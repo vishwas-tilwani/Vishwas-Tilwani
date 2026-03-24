@@ -30,12 +30,13 @@ I help businesses make better decisions through data. With experience across **C
 
 ## 📂 Featured Projects
 
-### 📊 [Sales & Campaign Operations Analysis](#)
-Multi-sector campaign performance analysis across Education, Fashion, Food, Health & Tech industries — uncovering ROAS, CTR, conversion rates, and budget utilisation patterns using Excel & Power BI.
+### 📊 [Sales & Campaign Operations Analysis](https://github.com/vishwas-tilwani/sales-campaign-performance-analysis)
+Multi-sector campaign performance analysis across Education, Fashion, Food, Health & Tech — 
+uncovering ROAS, CTR, conversion rates, and budget utilisation patterns using Excel & Power BI.
 
-### 🏛️ [NSW Local Government Financial Benchmarking](#)
-Comparative P&L analysis of 6 Sydney councils (FY24 vs FY25) — benchmarking revenue, expenditure, and budget variance to identify financial performance patterns across local government.
-
+### 🏛️ [NSW Local Government Financial Benchmarking](https://github.com/vishwas-tilwani/nsw-council-financial-benchmarking)
+Comparative P&L analysis of 6 Sydney councils (FY24 vs FY25) — benchmarking revenue, 
+expenditure and budget variance to identify financial performance patterns across local government.
 ---
 
 ## 📫 Let's Connect
